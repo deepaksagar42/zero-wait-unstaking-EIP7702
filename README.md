@@ -1,7 +1,12 @@
-# Sample Hardhat 3 Beta Project (minimal)
+# Zero-Wait Unstaking Using EIP-7702
+. Problem Statement
 
-This project has a minimal setup of Hardhat 3 Beta, without any plugins.
+Traditional staking contracts introduce unnecessary UX friction:
 
-## What's included?
+Users must manually track lock expiry
 
-The project includes native support for TypeScript, Hardhat scripts, tasks, and support for Solidity compilation and tests.
+Unstaking often happens several blocks late
+
+Cooldowns and delayed execution reduce capital efficiency
+
+EOAs cannot execute atomic logic at the exact unlock moment
