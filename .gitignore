@@ -1,0 +1,28 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Deployment artifacts (auto-generated)
+addresses.json
+
+# Hardhat build artifacts
+artifacts/
+cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+coverage.json
