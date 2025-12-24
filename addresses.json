@@ -1,0 +1,7 @@
+{
+  "deployer": "0xFdd10EA07d43a48f0EC0b118b09541de066e34D3",
+  "token": "0x43De411373731D8f2Ae4bA3b06749c9AB4518c36",
+  "staking": "0x8ffC1f64a585ce01a64ded636C036AD06F42C976",
+  "walletLogic": "0x726a259C2A474E6EDCe35717dAc521C274EEb63C",
+  "network": "bscTestnet"
+}
